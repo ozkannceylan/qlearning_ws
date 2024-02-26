@@ -1,0 +1,157 @@
+#-Parameters of Qlearning Motion Planning for a Mobile Robot on ROS-#
+
+DATA_PATH: /home/ozkan/Desktop/rl_ws/src/scripts/Data
+MODULES_PATH: /home/ozkan/Desktop/rl_ws/src/scripts
+
+#---------------------------------#
+#-----Learning Node Parameters----#
+#---------------------------------#
+episode_parameters:
+  max_episodes: 200
+  max_steps_per_episode: 500
+  min_time_between_actions: 0.0
+  action_delay: 0.0
+
+learning_parameters:
+  alpha: 0.5
+  gamma: 0.9
+  t_init: 25
+  t_grad: 0.95
+  t_min: 0.001
+  epsilon_init: 0.6
+  epsilon_grad: 0.998
+  epsilon_min: 0.01
+
+exploration_selection: 1 # 1 - Softmax , 2 - Epsilon greedy  
+
+initial_position:
+  x_init: -0.4
+  y_init: -0.4
+  theta_init: 45.0
+  random_init_pos: True
+
+dir:
+  log_file_dir: /home/ozkan/Desktop/rl_ws/src/scripts/Data/
+  info_logs_file: /Qlearning_Simulation_info.txt
+  sim_metrics_logs_file: /Qlearning_Simulation_metrics.txt
+
+q_source_dir: ''
+#---------------------------------#
+
+
+#---------------------------------#
+#-----Q Learning Class Params-----#
+#---------------------------------#
+qlearning_params:
+  STATE_SPACE_IND_MAX : 143
+  STATE_SPACE_IND_MIN : 0
+  ACTIONS_IND_MAX : 2
+  ACTIONS_IND_MIN : 0
+  T_MIN : 0.001
+#---------------------------------#
+
+
+
+
+#---------------------------------#
+#----Control Class Parameters-----#
+#---------------------------------#
+control_parameters:
+  CONST_LINEAR_SPEED_FORWARD: 0.08
+  CONST_ANGULAR_SPEED_FORWARD: 0.0
+  CONST_LINEAR_SPEED_TURN: 0.06
+  CONST_ANGULAR_SPEED_TURN: 0.4
+
+feedback_control_parameters:
+  K_RO: 2
+  K_ALPHA: 15
+  K_BETA: -3
+  V_CONST: 0.1
+
+goal_reaching_threshold:
+  GOAL_DIST_THRESHOLD: 0.1
+  GOAL_ANGLE_THRESHOLD: 15
+#---------------------------------#
+
+
+#---------------------------------#
+#-----Lidar Class Parameters------#
+#---------------------------------#
+lidar_params:
+  MAX_LIDAR_DISTANCE: 1.0
+  COLLISION_DISTANCE: 0.14
+  NEARBY_DISTANCE: 0.45
+  ZONE_0_LENGTH: 0.4
+  ZONE_1_LENGTH: 0.7
+  ANGLE_MAX: 359
+  ANGLE_MIN: 0
+  HORIZON_WIDTH: 75
+
+#---------------------------------#
+
+
+
+#---------------------------------#
+#-----Scan Node Parameters--------#
+#---------------------------------#
+scan_node_params:
+  MIN_TIME_BETWEEN_SCANS: 0
+  MAX_SIMULATION_TIME: "inf"
+#---------------------------------#
+
+
+#---------------------------------#
+#-----Control Node Parameters-----#
+#---------------------------------#
+control_node_params:
+  min_step_time: 0.0
+  q_table_dir: /home/ozkan/Desktop/rl_ws/src/scripts/Data/Data_Logs1/Qtable.csv
+  path_mode_selection: 1 # 1,2,3,4,5
+  action_delay: 0.0
+  init_positions:
+    x:
+      - -1.0
+      - -0.7
+      - -0.5
+      - -1.0
+      - -2.0
+    y:
+      - -2.0
+      - 0.7
+      - 1
+      - -2
+      - 1
+    theta:
+      - 0.0
+      - -45
+      - -120
+      - -90
+      - -150
+  goal_positions:
+    x:
+      - 2.0
+      - 2.0
+      - 0.5
+      - 1
+      - 2
+    y:
+      - 1.0
+      - -1.0
+      - -1.9
+      - 2
+      - -1
+    theta:
+      - 0.0
+      - -40.0
+      - -40
+      - 60
+      - -30
+#---------------------------------#
+     
+
+
+
+
+
+
+
