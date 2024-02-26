@@ -1,0 +1,27 @@
+
+SIMULATION START ==> 20/02/2024 21:50:40
+
+
+Simulation parameters:
+---------------------------------------
+INITIAL POSITION = ( -0.40 , -0.40 , 45.00 )
+---------------------------------------
+MAX_EPISODES = 400
+MAX_STEPS_PER_EPISODE = 200
+MIN_TIME_BETWEEN_ACTIONS = 0.00 s
+---------------------------------------
+ALPHA = 0.33
+GAMMA = 0.75
+EPSILON_INIT = 0.863
+EPSILON_GRAD = 0.986
+EPSILON_MIN = 0.094
+---------------------------------------
+MAX_LIDAR_DISTANCE = 1.00
+COLLISION_DISTANCE = 0.14
+ZONE_0_LENGTH = 0.40
+ZONE_1_LENGTH = 0.70
+---------------------------------------
+CONST_LINEAR_SPEED_FORWARD = 0.080
+CONST_ANGULAR_SPEED_FORWARD = 0.000
+CONST_LINEAR_SPEED_TURN = 0.060
+CONST_ANGULAR_SPEED_TURN = 0.400

@@ -1,0 +1,11 @@
+obstacle,experiment_duration,success,test_number
+63,43.184,True,1
+60,42.79,True,2
+103,60.0,False,3
+106,60.0,False,4
+56,42.798,True,5
+58,43.605,True,6
+56,43.009,True,7
+108,60.0,False,8
+53,42.79,True,9
+79,60.0,False,10

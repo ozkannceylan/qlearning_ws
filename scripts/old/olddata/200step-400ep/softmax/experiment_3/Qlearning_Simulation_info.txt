@@ -1,0 +1,1011 @@
+
+SIMULATION START ==> 10/02/2024 00:00:34
+
+
+---------------------------------------
+[2024-02-10 00:00:35] Episode 1:
+CRASH at {X: -0.13, Y: -0.22, Theta: 12.46}
+Episode Time: 5.54 s (Avg Step: 0.21 s)
+Episode Steps: 26
+Episode Reward: -108.40
+Episode Avg Reward : -4.34
+Episode Min Reward : -100.00
+T = 33.04
+
+---------------------------------------
+[2024-02-10 00:00:36] Episode 2:
+CRASH at {X: -0.17, Y: -0.18, Theta: 38.81}
+Episode Time: 5.12 s (Avg Step: 0.21 s)
+Episode Steps: 24
+Episode Reward: -107.80
+Episode Avg Reward : -4.69
+Episode Min Reward : -100.00
+T = 30.76
+
+---------------------------------------
+[2024-02-10 00:00:37] Episode 3:
+CRASH at {X: -0.18, Y: -0.17, Theta: 49.69}
+Episode Time: 5.27 s (Avg Step: 0.21 s)
+Episode Steps: 25
+Episode Reward: -108.40
+Episode Avg Reward : -4.52
+Episode Min Reward : -100.00
+T = 28.64
+
+---------------------------------------
+[2024-02-10 00:00:38] Episode 4:
+CRASH at {X: -0.17, Y: -0.19, Theta: 35.51}
+Episode Time: 5.18 s (Avg Step: 0.22 s)
+Episode Steps: 24
+Episode Reward: -108.40
+Episode Avg Reward : -4.71
+Episode Min Reward : -100.00
+T = 26.66
+
+---------------------------------------
+[2024-02-10 00:00:39] Episode 5:
+CRASH at {X: -0.24, Y: -0.08, Theta: 47.43}
+Episode Time: 6.29 s (Avg Step: 0.21 s)
+Episode Steps: 30
+Episode Reward: -111.00
+Episode Avg Reward : -3.83
+Episode Min Reward : -100.00
+T = 24.83
+
+---------------------------------------
+[2024-02-10 00:00:40] Episode 6:
+CRASH at {X: -0.25, Y: -0.07, Theta: 82.23}
+Episode Time: 6.14 s (Avg Step: 0.21 s)
+Episode Steps: 29
+Episode Reward: -110.00
+Episode Avg Reward : -3.93
+Episode Min Reward : -100.00
+T = 23.11
+
+---------------------------------------
+[2024-02-10 00:00:41] Episode 7:
+CRASH at {X: -0.23, Y: -0.10, Theta: 60.29}
+Episode Time: 6.33 s (Avg Step: 0.21 s)
+Episode Steps: 30
+Episode Reward: -115.60
+Episode Avg Reward : -3.99
+Episode Min Reward : -100.00
+T = 21.52
+
+---------------------------------------
+[2024-02-10 00:00:42] Episode 8:
+CRASH at {X: -0.23, Y: -0.09, Theta: 56.02}
+Episode Time: 6.51 s (Avg Step: 0.21 s)
+Episode Steps: 31
+Episode Reward: -116.80
+Episode Avg Reward : -3.89
+Episode Min Reward : -100.00
+T = 20.03
+
+---------------------------------------
+[2024-02-10 00:00:43] Episode 9:
+CRASH at {X: -0.16, Y: -0.17, Theta: 50.92}
+Episode Time: 5.55 s (Avg Step: 0.21 s)
+Episode Steps: 26
+Episode Reward: -107.00
+Episode Avg Reward : -4.28
+Episode Min Reward : -100.00
+T = 18.65
+
+---------------------------------------
+[2024-02-10 00:00:44] Episode 10:
+CRASH at {X: -0.20, Y: -0.16, Theta: 76.90}
+Episode Time: 5.52 s (Avg Step: 0.21 s)
+Episode Steps: 26
+Episode Reward: -110.80
+Episode Avg Reward : -4.43
+Episode Min Reward : -100.00
+T = 17.37
+
+---------------------------------------
+[2024-02-10 00:00:46] Episode 11:
+CRASH at {X: -0.26, Y: 0.03, Theta: 71.12}
+Episode Time: 7.53 s (Avg Step: 0.21 s)
+Episode Steps: 36
+Episode Reward: -106.60
+Episode Avg Reward : -3.05
+Episode Min Reward : -100.00
+T = 16.17
+
+---------------------------------------
+[2024-02-10 00:00:55] Episode 12:
+CRASH at {X: -0.42, Y: 2.44, Theta: 81.65}
+Episode Time: 48.95 s (Avg Step: 0.20 s)
+Episode Steps: 243
+Episode Reward: -153.00
+Episode Avg Reward : -0.63
+Episode Min Reward : -100.00
+T = 15.05
+
+---------------------------------------
+[2024-02-10 00:00:59] Episode 13:
+CRASH at {X: -1.06, Y: 0.83, Theta: 164.81}
+Episode Time: 27.10 s (Avg Step: 0.20 s)
+Episode Steps: 134
+Episode Reward: -133.80
+Episode Avg Reward : -1.01
+Episode Min Reward : -100.00
+T = 14.02
+
+---------------------------------------
+[2024-02-10 00:01:01] Episode 14:
+CRASH at {X: -0.26, Y: 0.02, Theta: 64.55}
+Episode Time: 7.56 s (Avg Step: 0.21 s)
+Episode Steps: 36
+Episode Reward: -109.80
+Episode Avg Reward : -3.14
+Episode Min Reward : -100.00
+T = 13.05
+
+---------------------------------------
+[2024-02-10 00:01:09] Episode 15:
+CRASH at {X: 1.37, Y: 1.90, Theta: 8.19}
+Episode Time: 47.32 s (Avg Step: 0.20 s)
+Episode Steps: 235
+Episode Reward: -144.00
+Episode Avg Reward : -0.62
+Episode Min Reward : -100.00
+T = 12.15
+
+---------------------------------------
+[2024-02-10 00:01:14] Episode 16:
+CRASH at {X: -0.99, Y: 0.86, Theta: -164.41}
+Episode Time: 26.52 s (Avg Step: 0.20 s)
+Episode Steps: 131
+Episode Reward: -123.20
+Episode Avg Reward : -0.95
+Episode Min Reward : -100.00
+T = 11.31
+
+---------------------------------------
+[2024-02-10 00:01:23] Episode 17:
+CRASH at {X: -1.63, Y: 1.91, Theta: 55.05}
+Episode Time: 50.31 s (Avg Step: 0.20 s)
+Episode Steps: 250
+Episode Reward: -129.40
+Episode Avg Reward : -0.52
+Episode Min Reward : -100.00
+T = 10.53
+
+---------------------------------------
+[2024-02-10 00:01:31] Episode 18:
+CRASH at {X: -1.28, Y: 2.01, Theta: 131.72}
+Episode Time: 41.29 s (Avg Step: 0.20 s)
+Episode Steps: 205
+Episode Reward: -131.60
+Episode Avg Reward : -0.65
+Episode Min Reward : -100.00
+T = 9.80
+
+---------------------------------------
+[2024-02-10 00:01:39] Episode 19:
+CRASH at {X: -1.88, Y: 1.60, Theta: 71.25}
+Episode Time: 44.16 s (Avg Step: 0.20 s)
+Episode Steps: 219
+Episode Reward: -114.60
+Episode Avg Reward : -0.53
+Episode Min Reward : -100.00
+T = 9.13
+
+---------------------------------------
+[2024-02-10 00:01:44] Episode 20:
+CRASH at {X: -0.91, Y: 0.92, Theta: -178.38}
+Episode Time: 26.30 s (Avg Step: 0.20 s)
+Episode Steps: 130
+Episode Reward: -126.20
+Episode Avg Reward : -0.98
+Episode Min Reward : -100.00
+T = 8.50
+
+---------------------------------------
+[2024-02-10 00:01:47] Episode 21:
+CRASH at {X: -0.10, Y: 0.86, Theta: 77.82}
+Episode Time: 21.15 s (Avg Step: 0.20 s)
+Episode Steps: 104
+Episode Reward: -128.60
+Episode Avg Reward : -1.25
+Episode Min Reward : -100.00
+T = 7.91
+
+---------------------------------------
+[2024-02-10 00:01:48] Episode 22:
+CRASH at {X: -0.17, Y: -0.19, Theta: 48.07}
+Episode Time: 4.53 s (Avg Step: 0.22 s)
+Episode Steps: 21
+Episode Reward: -102.40
+Episode Avg Reward : -5.12
+Episode Min Reward : -100.00
+T = 7.37
+
+---------------------------------------
+[2024-02-10 00:01:49] Episode 23:
+CRASH at {X: -0.18, Y: -0.17, Theta: 33.90}
+Episode Time: 5.32 s (Avg Step: 0.21 s)
+Episode Steps: 25
+Episode Reward: -108.20
+Episode Avg Reward : -4.51
+Episode Min Reward : -100.00
+T = 6.86
+
+---------------------------------------
+[2024-02-10 00:01:50] Episode 24:
+CRASH at {X: -0.18, Y: -0.16, Theta: 39.57}
+Episode Time: 5.56 s (Avg Step: 0.21 s)
+Episode Steps: 26
+Episode Reward: -111.40
+Episode Avg Reward : -4.46
+Episode Min Reward : -100.00
+T = 6.39
+
+---------------------------------------
+[2024-02-10 00:01:51] Episode 25:
+CRASH at {X: -0.19, Y: -0.20, Theta: 34.42}
+Episode Time: 4.91 s (Avg Step: 0.21 s)
+Episode Steps: 23
+Episode Reward: -109.00
+Episode Avg Reward : -4.95
+Episode Min Reward : -100.00
+T = 5.94
+
+---------------------------------------
+[2024-02-10 00:01:52] Episode 26:
+CRASH at {X: -0.18, Y: -0.18, Theta: 42.04}
+Episode Time: 4.89 s (Avg Step: 0.21 s)
+Episode Steps: 23
+Episode Reward: -106.60
+Episode Avg Reward : -4.85
+Episode Min Reward : -100.00
+T = 5.53
+
+---------------------------------------
+[2024-02-10 00:01:53] Episode 27:
+CRASH at {X: -0.13, Y: -0.21, Theta: 12.71}
+Episode Time: 4.96 s (Avg Step: 0.22 s)
+Episode Steps: 23
+Episode Reward: -104.20
+Episode Avg Reward : -4.74
+Episode Min Reward : -100.00
+T = 5.15
+
+---------------------------------------
+[2024-02-10 00:01:54] Episode 28:
+CRASH at {X: -0.18, Y: -0.16, Theta: 45.39}
+Episode Time: 5.70 s (Avg Step: 0.21 s)
+Episode Steps: 27
+Episode Reward: -113.20
+Episode Avg Reward : -4.35
+Episode Min Reward : -100.00
+T = 4.80
+
+---------------------------------------
+[2024-02-10 00:02:03] Episode 29:
+CRASH at {X: -0.62, Y: 2.43, Theta: 163.69}
+Episode Time: 47.69 s (Avg Step: 0.20 s)
+Episode Steps: 237
+Episode Reward: -131.60
+Episode Avg Reward : -0.56
+Episode Min Reward : -100.00
+T = 4.47
+
+---------------------------------------
+[2024-02-10 00:02:12] Episode 30:
+CRASH at {X: 2.41, Y: -0.34, Theta: 73.94}
+Episode Time: 52.75 s (Avg Step: 0.20 s)
+Episode Steps: 262
+Episode Reward: -162.00
+Episode Avg Reward : -0.62
+Episode Min Reward : -100.00
+T = 4.16
+
+---------------------------------------
+[2024-02-10 00:02:22] Episode 31:
+CRASH at {X: -0.48, Y: 2.43, Theta: 16.98}
+Episode Time: 52.57 s (Avg Step: 0.20 s)
+Episode Steps: 261
+Episode Reward: -140.80
+Episode Avg Reward : -0.54
+Episode Min Reward : -100.00
+T = 3.87
+
+---------------------------------------
+[2024-02-10 00:02:33] Episode 32:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.30 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: -34.00
+Episode Avg Reward : -0.11
+Episode Min Reward : -0.60
+T = 3.60
+
+---------------------------------------
+[2024-02-10 00:02:44] Episode 33:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.36 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: -27.20
+Episode Avg Reward : -0.09
+Episode Min Reward : -0.60
+T = 3.36
+
+---------------------------------------
+[2024-02-10 00:02:54] Episode 34:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.41 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: -29.20
+Episode Avg Reward : -0.10
+Episode Min Reward : -0.60
+T = 3.12
+
+---------------------------------------
+[2024-02-10 00:03:05] Episode 35:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.44 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: -48.40
+Episode Avg Reward : -0.16
+Episode Min Reward : -0.60
+T = 2.91
+
+---------------------------------------
+[2024-02-10 00:03:14] Episode 36:
+CRASH at {X: 2.33, Y: 0.25, Theta: 49.06}
+Episode Time: 47.20 s (Avg Step: 0.20 s)
+Episode Steps: 234
+Episode Reward: -155.40
+Episode Avg Reward : -0.67
+Episode Min Reward : -100.00
+T = 2.71
+
+---------------------------------------
+[2024-02-10 00:03:25] Episode 37:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.32 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: -41.20
+Episode Avg Reward : -0.14
+Episode Min Reward : -0.60
+T = 2.52
+
+---------------------------------------
+[2024-02-10 00:03:36] Episode 38:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.42 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: -50.40
+Episode Avg Reward : -0.17
+Episode Min Reward : -0.60
+T = 2.35
+
+---------------------------------------
+[2024-02-10 00:03:47] Episode 39:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.38 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: -20.40
+Episode Avg Reward : -0.07
+Episode Min Reward : -0.60
+T = 2.19
+
+---------------------------------------
+[2024-02-10 00:03:58] Episode 40:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.40 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: -21.00
+Episode Avg Reward : -0.07
+Episode Min Reward : -0.60
+T = 2.04
+
+---------------------------------------
+[2024-02-10 00:04:09] Episode 41:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.40 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: -46.40
+Episode Avg Reward : -0.16
+Episode Min Reward : -0.60
+T = 1.89
+
+---------------------------------------
+[2024-02-10 00:04:17] Episode 42:
+CRASH at {X: -0.68, Y: 2.43, Theta: 161.92}
+Episode Time: 47.21 s (Avg Step: 0.20 s)
+Episode Steps: 234
+Episode Reward: -126.80
+Episode Avg Reward : -0.54
+Episode Min Reward : -100.00
+T = 1.76
+
+---------------------------------------
+[2024-02-10 00:04:26] Episode 43:
+CRASH at {X: -1.14, Y: 2.18, Theta: -141.88}
+Episode Time: 46.95 s (Avg Step: 0.20 s)
+Episode Steps: 233
+Episode Reward: -112.80
+Episode Avg Reward : -0.49
+Episode Min Reward : -100.00
+T = 1.64
+
+---------------------------------------
+[2024-02-10 00:04:35] Episode 44:
+CRASH at {X: -0.76, Y: 2.42, Theta: 167.83}
+Episode Time: 50.70 s (Avg Step: 0.20 s)
+Episode Steps: 252
+Episode Reward: -127.60
+Episode Avg Reward : -0.51
+Episode Min Reward : -100.00
+T = 1.53
+
+---------------------------------------
+[2024-02-10 00:04:42] Episode 45:
+CRASH at {X: 1.28, Y: -1.97, Theta: 0.65}
+Episode Time: 41.34 s (Avg Step: 0.20 s)
+Episode Steps: 205
+Episode Reward: -138.20
+Episode Avg Reward : -0.68
+Episode Min Reward : -100.00
+T = 1.42
+
+---------------------------------------
+[2024-02-10 00:04:53] Episode 46:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.34 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: -11.80
+Episode Avg Reward : -0.04
+Episode Min Reward : -0.60
+T = 1.33
+
+---------------------------------------
+[2024-02-10 00:05:04] Episode 47:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.39 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: -9.60
+Episode Avg Reward : -0.03
+Episode Min Reward : -0.60
+T = 1.23
+
+---------------------------------------
+[2024-02-10 00:05:12] Episode 48:
+CRASH at {X: -1.32, Y: 1.94, Theta: 169.85}
+Episode Time: 43.78 s (Avg Step: 0.20 s)
+Episode Steps: 217
+Episode Reward: -129.80
+Episode Avg Reward : -0.60
+Episode Min Reward : -100.00
+T = 1.15
+
+---------------------------------------
+[2024-02-10 00:05:23] Episode 49:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.37 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: -28.00
+Episode Avg Reward : -0.09
+Episode Min Reward : -0.60
+T = 1.07
+
+---------------------------------------
+[2024-02-10 00:05:34] Episode 50:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.35 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: -8.20
+Episode Avg Reward : -0.03
+Episode Min Reward : -0.60
+T = 1.00
+
+---------------------------------------
+[2024-02-10 00:05:45] Episode 51:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.41 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: -14.20
+Episode Avg Reward : -0.05
+Episode Min Reward : -0.60
+T = 0.93
+
+---------------------------------------
+[2024-02-10 00:05:56] Episode 52:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.42 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: -22.00
+Episode Avg Reward : -0.07
+Episode Min Reward : -0.60
+T = 0.86
+
+---------------------------------------
+[2024-02-10 00:06:07] Episode 53:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.40 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: 7.60
+Episode Avg Reward : 0.03
+Episode Min Reward : -0.60
+T = 0.80
+
+---------------------------------------
+[2024-02-10 00:06:15] Episode 54:
+CRASH at {X: -1.29, Y: 1.97, Theta: -162.40}
+Episode Time: 46.41 s (Avg Step: 0.20 s)
+Episode Steps: 230
+Episode Reward: -107.20
+Episode Avg Reward : -0.47
+Episode Min Reward : -100.00
+T = 0.75
+
+---------------------------------------
+[2024-02-10 00:06:24] Episode 55:
+CRASH at {X: -1.26, Y: 2.03, Theta: -167.16}
+Episode Time: 46.72 s (Avg Step: 0.20 s)
+Episode Steps: 232
+Episode Reward: -113.00
+Episode Avg Reward : -0.49
+Episode Min Reward : -100.00
+T = 0.70
+
+---------------------------------------
+[2024-02-10 00:06:35] Episode 56:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.34 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: -0.80
+Episode Avg Reward : -0.00
+Episode Min Reward : -0.60
+T = 0.65
+
+---------------------------------------
+[2024-02-10 00:06:46] Episode 57:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.37 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: 16.20
+Episode Avg Reward : 0.05
+Episode Min Reward : -0.60
+T = 0.60
+
+---------------------------------------
+[2024-02-10 00:06:57] Episode 58:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.41 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: -0.40
+Episode Avg Reward : -0.00
+Episode Min Reward : -0.60
+T = 0.56
+
+---------------------------------------
+[2024-02-10 00:07:05] Episode 59:
+CRASH at {X: -0.56, Y: 2.42, Theta: 162.62}
+Episode Time: 49.59 s (Avg Step: 0.20 s)
+Episode Steps: 246
+Episode Reward: -100.40
+Episode Avg Reward : -0.41
+Episode Min Reward : -100.00
+T = 0.52
+
+---------------------------------------
+[2024-02-10 00:07:16] Episode 60:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.36 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: 22.40
+Episode Avg Reward : 0.07
+Episode Min Reward : -0.60
+T = 0.49
+
+---------------------------------------
+[2024-02-10 00:07:25] Episode 61:
+CRASH at {X: -0.45, Y: 2.42, Theta: 157.91}
+Episode Time: 48.96 s (Avg Step: 0.20 s)
+Episode Steps: 243
+Episode Reward: -99.20
+Episode Avg Reward : -0.41
+Episode Min Reward : -100.00
+T = 0.45
+
+---------------------------------------
+[2024-02-10 00:07:36] Episode 62:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.36 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: 26.60
+Episode Avg Reward : 0.09
+Episode Min Reward : -0.60
+T = 0.42
+
+---------------------------------------
+[2024-02-10 00:07:44] Episode 63:
+CRASH at {X: -1.27, Y: 2.00, Theta: -160.44}
+Episode Time: 45.80 s (Avg Step: 0.20 s)
+Episode Steps: 227
+Episode Reward: -102.80
+Episode Avg Reward : -0.45
+Episode Min Reward : -100.00
+T = 0.39
+
+---------------------------------------
+[2024-02-10 00:07:53] Episode 64:
+CRASH at {X: -1.12, Y: 2.22, Theta: -118.76}
+Episode Time: 47.92 s (Avg Step: 0.20 s)
+Episode Steps: 238
+Episode Reward: -78.00
+Episode Avg Reward : -0.33
+Episode Min Reward : -100.00
+T = 0.37
+
+---------------------------------------
+[2024-02-10 00:07:54] Episode 65:
+CRASH at {X: -0.22, Y: -0.10, Theta: 68.01}
+Episode Time: 5.10 s (Avg Step: 0.21 s)
+Episode Steps: 24
+Episode Reward: -103.00
+Episode Avg Reward : -4.48
+Episode Min Reward : -100.00
+T = 0.34
+
+---------------------------------------
+[2024-02-10 00:08:02] Episode 66:
+CRASH at {X: -0.55, Y: 2.43, Theta: 12.57}
+Episode Time: 44.95 s (Avg Step: 0.20 s)
+Episode Steps: 223
+Episode Reward: -82.20
+Episode Avg Reward : -0.37
+Episode Min Reward : -100.00
+T = 0.32
+
+---------------------------------------
+[2024-02-10 00:08:13] Episode 67:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.33 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: 63.20
+Episode Avg Reward : 0.21
+Episode Min Reward : -0.60
+T = 0.30
+
+---------------------------------------
+[2024-02-10 00:08:21] Episode 68:
+CRASH at {X: -2.55, Y: 0.43, Theta: -135.62}
+Episode Time: 45.21 s (Avg Step: 0.20 s)
+Episode Steps: 224
+Episode Reward: -76.40
+Episode Avg Reward : -0.34
+Episode Min Reward : -100.00
+T = 0.28
+
+---------------------------------------
+[2024-02-10 00:08:29] Episode 69:
+CRASH at {X: -2.67, Y: 0.21, Theta: -127.78}
+Episode Time: 45.71 s (Avg Step: 0.20 s)
+Episode Steps: 227
+Episode Reward: -77.80
+Episode Avg Reward : -0.34
+Episode Min Reward : -100.00
+T = 0.26
+
+---------------------------------------
+[2024-02-10 00:08:39] Episode 70:
+CRASH at {X: -2.54, Y: -0.44, Theta: -80.10}
+Episode Time: 52.52 s (Avg Step: 0.20 s)
+Episode Steps: 261
+Episode Reward: -71.40
+Episode Avg Reward : -0.27
+Episode Min Reward : -100.00
+T = 0.24
+
+---------------------------------------
+[2024-02-10 00:08:50] Episode 71:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.30 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: 47.40
+Episode Avg Reward : 0.16
+Episode Min Reward : -0.60
+T = 0.22
+
+---------------------------------------
+[2024-02-10 00:09:01] Episode 72:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.40 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: 29.60
+Episode Avg Reward : 0.10
+Episode Min Reward : -0.60
+T = 0.21
+
+---------------------------------------
+[2024-02-10 00:09:12] Episode 73:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.40 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: 48.80
+Episode Avg Reward : 0.16
+Episode Min Reward : -0.60
+T = 0.19
+
+---------------------------------------
+[2024-02-10 00:09:21] Episode 74:
+CRASH at {X: -1.10, Y: 2.27, Theta: -133.51}
+Episode Time: 50.82 s (Avg Step: 0.20 s)
+Episode Steps: 252
+Episode Reward: -96.60
+Episode Avg Reward : -0.38
+Episode Min Reward : -100.00
+T = 0.18
+
+---------------------------------------
+[2024-02-10 00:09:32] Episode 75:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.31 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: 49.80
+Episode Avg Reward : 0.17
+Episode Min Reward : -0.60
+T = 0.17
+
+---------------------------------------
+[2024-02-10 00:09:43] Episode 76:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.44 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: 52.20
+Episode Avg Reward : 0.17
+Episode Min Reward : -0.60
+T = 0.16
+
+---------------------------------------
+[2024-02-10 00:09:53] Episode 77:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.40 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: 39.80
+Episode Avg Reward : 0.13
+Episode Min Reward : -0.60
+T = 0.14
+
+---------------------------------------
+[2024-02-10 00:10:04] Episode 78:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.42 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: 55.20
+Episode Avg Reward : 0.18
+Episode Min Reward : -0.60
+T = 0.13
+
+---------------------------------------
+[2024-02-10 00:10:15] Episode 79:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.36 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: 63.40
+Episode Avg Reward : 0.21
+Episode Min Reward : -0.60
+T = 0.13
+
+---------------------------------------
+[2024-02-10 00:10:26] Episode 80:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.42 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: 54.00
+Episode Avg Reward : 0.18
+Episode Min Reward : -0.60
+T = 0.12
+
+---------------------------------------
+[2024-02-10 00:10:37] Episode 81:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.38 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: 54.00
+Episode Avg Reward : 0.18
+Episode Min Reward : -0.60
+T = 0.11
+
+---------------------------------------
+[2024-02-10 00:10:48] Episode 82:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.42 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: 55.80
+Episode Avg Reward : 0.19
+Episode Min Reward : -0.60
+T = 0.10
+
+---------------------------------------
+[2024-02-10 00:10:56] Episode 83:
+CRASH at {X: 0.03, Y: -2.41, Theta: -172.59}
+Episode Time: 46.62 s (Avg Step: 0.20 s)
+Episode Steps: 231
+Episode Reward: -80.60
+Episode Avg Reward : -0.35
+Episode Min Reward : -100.00
+T = 0.09
+
+---------------------------------------
+[2024-02-10 00:11:07] Episode 84:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.30 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: 40.20
+Episode Avg Reward : 0.13
+Episode Min Reward : -0.60
+T = 0.09
+
+---------------------------------------
+[2024-02-10 00:11:18] Episode 85:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.40 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: 66.00
+Episode Avg Reward : 0.22
+Episode Min Reward : -0.60
+T = 0.08
+
+---------------------------------------
+[2024-02-10 00:11:29] Episode 86:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.42 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: 53.80
+Episode Avg Reward : 0.18
+Episode Min Reward : -0.60
+T = 0.08
+
+---------------------------------------
+[2024-02-10 00:11:40] Episode 87:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.41 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: 27.00
+Episode Avg Reward : 0.09
+Episode Min Reward : -0.60
+T = 0.07
+
+---------------------------------------
+[2024-02-10 00:11:51] Episode 88:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.41 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: 31.80
+Episode Avg Reward : 0.11
+Episode Min Reward : -0.60
+T = 0.07
+
+---------------------------------------
+[2024-02-10 00:12:02] Episode 89:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.41 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: 41.00
+Episode Avg Reward : 0.14
+Episode Min Reward : -0.60
+T = 0.06
+
+---------------------------------------
+[2024-02-10 00:12:13] Episode 90:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.41 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: 40.80
+Episode Avg Reward : 0.14
+Episode Min Reward : -0.60
+T = 0.06
+
+---------------------------------------
+[2024-02-10 00:12:24] Episode 91:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.37 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: 31.60
+Episode Avg Reward : 0.11
+Episode Min Reward : -0.60
+T = 0.05
+
+---------------------------------------
+[2024-02-10 00:12:35] Episode 92:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.43 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: 62.60
+Episode Avg Reward : 0.21
+Episode Min Reward : -0.60
+T = 0.05
+
+---------------------------------------
+[2024-02-10 00:12:46] Episode 93:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.40 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: 38.00
+Episode Avg Reward : 0.13
+Episode Min Reward : -0.60
+T = 0.05
+
+---------------------------------------
+[2024-02-10 00:12:57] Episode 94:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.40 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: 42.80
+Episode Avg Reward : 0.14
+Episode Min Reward : -0.60
+T = 0.04
+
+---------------------------------------
+[2024-02-10 00:13:08] Episode 95:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.40 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: 62.40
+Episode Avg Reward : 0.21
+Episode Min Reward : -0.60
+T = 0.04
+
+---------------------------------------
+[2024-02-10 00:13:19] Episode 96:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.39 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: 55.20
+Episode Avg Reward : 0.18
+Episode Min Reward : -0.60
+T = 0.04
+
+---------------------------------------
+[2024-02-10 00:13:30] Episode 97:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.38 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: 65.20
+Episode Avg Reward : 0.22
+Episode Min Reward : -0.60
+T = 0.03
+
+---------------------------------------
+[2024-02-10 00:13:41] Episode 98:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.40 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: 41.40
+Episode Avg Reward : 0.14
+Episode Min Reward : -0.60
+T = 0.03
+
+---------------------------------------
+[2024-02-10 00:13:52] Episode 99:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.44 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: 43.80
+Episode Avg Reward : 0.15
+Episode Min Reward : -0.60
+T = 0.03
+
+---------------------------------------
+[2024-02-10 00:14:03] Episode 100:
+MAX STEPS PER EPISODE REACHED (300)
+Episode Time: 60.38 s (Avg Step: 0.20 s)
+Episode Steps: 300
+Episode Reward: 63.20
+Episode Avg Reward : 0.21
+Episode Min Reward : -0.60
+T = 0.03
+
+---------------------------------------
+
+MAX EPISODES REACHED(100), LEARNING FINISHED ==> 10/02/2024 00:14:03
+
+Simulation time: 01:14:31  h/m/s
+Real time: 00:13:28  h/m/s
+
